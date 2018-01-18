@@ -2,9 +2,6 @@ import urllib3
 from docx import Document
 from bs4 import BeautifulSoup
 
-# thk h hogya :D haan nice isko github pe daalenge okay? :D tu hi daalio apne me -_- saath mein kiya na
-# thappad merko apni gmail ka pass bataeyo hackathons mein bhi register karna tha batade :P27316812
-
 codechefURLS = [
     'https://www.codechef.com/problems/school',
     'https://www.codechef.com/problems/easy',
